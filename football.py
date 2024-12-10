@@ -102,4 +102,5 @@ teams = createtuples(myfile)
 #newfile_by_country("Germany", "germany.txt")
 #best_promotion()
 #info_by_name("FC Portos")
-menu()
+while True:
+    menu()
